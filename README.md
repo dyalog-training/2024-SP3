@@ -4,7 +4,7 @@ This repository is currently work in progress, it is not expected to be ready fo
 
 ## Pre-requisites
 
-- Dyalog v19.0 Unicode, any supported operating system.
+- Dyalog v18.2 Unicode (or later), any supported operating system.
   
 - Recommended: bring your own simple Win32 application to play with
  
